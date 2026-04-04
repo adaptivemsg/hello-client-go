@@ -5,8 +5,8 @@ import (
 	"flag"
 	"log"
 
-	am "adaptivemsg"
-	hello "hello-server-rust/api/hello"
+	am "github.com/adaptivemsg/adaptivemsg-go"
+	hello "github.com/adaptivemsg/hello-server-rust/api/hello"
 )
 
 func main() {
