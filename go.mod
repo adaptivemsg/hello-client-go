@@ -4,8 +4,8 @@ go 1.22
 
 require (
 	github.com/adaptivemsg/adaptivemsg-go v0.1.1
-	//github.com/adaptivemsg/hello-server-rust v0.1.0
-	github.com/adaptivemsg/hello-server-go v0.0.0-20260405030132-23a85db1de33
+	github.com/adaptivemsg/hello-server-rust v0.1.0
+//github.com/adaptivemsg/hello-server-go v0.0.0-20260405030132-23a85db1de33
 )
 
 require (

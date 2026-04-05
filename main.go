@@ -6,8 +6,8 @@ import (
 	"log"
 
 	am "github.com/adaptivemsg/adaptivemsg-go"
-	//hello "github.com/adaptivemsg/hello-server-rust/api/hello"
-	hello "github.com/adaptivemsg/hello-server-go/api/hello"
+	hello "github.com/adaptivemsg/hello-server-rust/api/hello"
+	//hello "github.com/adaptivemsg/hello-server-go/api/hello"
 )
 
 func main() {
