@@ -1,7 +1,7 @@
-github.com/adaptivemsg/adaptivemsg-go v0.1.0 h1:acsxyelwMSML0DlueyKijth4i91vvcWmO7KCUp/wDlI=
-github.com/adaptivemsg/adaptivemsg-go v0.1.0/go.mod h1:g0e61T3LPYLEM+mxj1U6dYnFaJh6bnLXxeierUnUWTE=
-github.com/adaptivemsg/hello-server-rust v0.1.0 h1:rExXtXrbklnRNfjovLgbVCYFR4ESPvaXnv6St6RZd6A=
-github.com/adaptivemsg/hello-server-rust v0.1.0/go.mod h1:KlWPrhle7wz0gm9NBU4s2ibrwmP5mAhsVETO2yVPaCc=
+github.com/adaptivemsg/adaptivemsg-go v0.1.1 h1:R7Xudjk/NOx/LhIqOoYBzezKABGbOFU6kVmhLk0nSMo=
+github.com/adaptivemsg/adaptivemsg-go v0.1.1/go.mod h1:g0e61T3LPYLEM+mxj1U6dYnFaJh6bnLXxeierUnUWTE=
+github.com/adaptivemsg/hello-server-go v0.0.0-20260405030132-23a85db1de33 h1:IgespITqnUbd9NbD6m/m4SjMIBEfu8Dl9PhogGGPotA=
+github.com/adaptivemsg/hello-server-go v0.0.0-20260405030132-23a85db1de33/go.mod h1:YimVKGI6ZAuBgDf6miLUQQUDqI6Y2Qbpgr0i2efSdT4=
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
